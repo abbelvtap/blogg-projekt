@@ -5,7 +5,7 @@
             <p class="text-3xl mb-2 text-white mt-32 lg:mt-64">Welcome to</p>
             <p class="text-4xl lg:text-6xl font-bold mb-7 text-white">Elvira Tapper</p>
             <p class="text-lg text-white mb-20">MY BLOG ON LOREM IPSUM</p>
-            <div class="flex flex-col lg:flex-row w-3/4 lg:w-2/5 mb-20 lg:mb-40">
+            <div class="flex flex-col lg:flex-row w-4/5 lg:w-2/5 mb-20 lg:mb-40">
                 <button @click="goto('leadership')" class="lg:w-1/3 m-2 bg-white flex lg:flex-col items-center justify-center lg:justify-start">
                     <img class="h-20 my-10 lg:mt-10 lg:mb-5 mr-5 lg:mr-0" src="https://static.wixstatic.com/media/2e2a49_86d1c5a3a7104ef383d530263b7fc175~mv2.png/v1/fill/w_80,h_90,al_c,usm_0.66_1.00_0.01,enc_auto/2e2a49_86d1c5a3a7104ef383d530263b7fc175~mv2.png"/>
                     <div>
